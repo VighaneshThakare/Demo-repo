@@ -1,5 +1,5 @@
 # Demo-repo
 This is my first Repo.
 <br>
-My name is Vighanesh Thakare (Mau Mau enemy)
+My name is Vighanesh Thakare (Student)
 
